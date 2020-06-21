@@ -1,2 +1,2 @@
-# ubuntu-wsl
+# novodir
 some experiments 
